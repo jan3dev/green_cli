@@ -32,4 +32,6 @@ pip install ~/prj/jan3/gdk-python/share/python/greenaddress-0.0.65-cp39-cp39-lin
 pip install requests
 pip install websockets
 pip install .
+# set up a liquid wallet
+python sideswap.py
 ```
